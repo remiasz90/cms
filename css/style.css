@@ -35,7 +35,16 @@
 #logo{
     height: 40px;
     width: auto;
-    margin-right: 20px;
+    margin-right: 40px;
+}
+
+img.d-block {
+    max-height: 550px;
+}
+
+#quote{
+    background-color: #ffe02d;
+
 }
 
 /* Featurettes
